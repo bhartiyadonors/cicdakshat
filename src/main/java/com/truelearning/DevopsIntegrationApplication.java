@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to True learning by Akshat";
+		return "welcome to True learning by Akshat Gupta, (Gupta was missing previously)";
 	}
 
 	public static void main(String[] args) {
